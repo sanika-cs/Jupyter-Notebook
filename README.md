@@ -1,1 +1,1 @@
-# Data Science Tools and eEcosystem (Jupter Notebook)
+# Data Science Tools and Ecosystem (Jupter Notebook)
